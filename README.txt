@@ -3,4 +3,4 @@ Coloquei o display para que possam visualizar cada etapa pois muitos usando o ju
 
 
 in this file python i will treat and generate graphs for data analysis and a prediction of data using a linear regression.
-I put the display so that you can view each step if you use jupyter, if you use VSC as i change to print.
+I placed the display so you can view each step using Jupiter, you can change to print in case you use vcs
